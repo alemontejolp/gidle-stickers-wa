@@ -28,6 +28,10 @@ de las imágenes usadas para los stickers.
 
 Lee [este apartado](CONTRIBUTING.md) para conocer las formas de contribución. :D
 
+## Política de privacidad
+
+[Lee aquí](PRIVACY_POLICY.md) la política de privacidad de esta aplicación.
+
 ## Licencia
 
 Puedes leer la licencia original [aquí](LICENSE).
