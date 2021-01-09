@@ -18,7 +18,8 @@ Los paquetes de stickers son directorios con al menos 3 y como máximo
 30 imágenes de 512x512 pixeles en formato WebP, las cuales serán los
 stickers, y una imágen de 96x96 pixeles en formato png, que será el
 ícono que se mostrará en la bandeja de stickers de WhatsApp y que
-representará al paquete de stickers. 
+representará al paquete de stickers. Los stickers deben pesar menos
+de 100KB y el ícono del pack debe pesar menos de 50KB.
 
 Puede usar [esta herramienta online](https://squoosh.app/) para 
 convertir a webp.

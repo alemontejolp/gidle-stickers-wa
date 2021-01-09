@@ -15,7 +15,7 @@ Este es un proyecto hecho por fans para fans del grupo (G)I-DLE.
 Este proyecto no tiene fines de lucro, por lo cual esta app no contiene 
 mecanismos de monetización (tales como publicidad, etc).
 
-La aplicación la pueden encontrar y descargar [aquí en Google Play](#)
+La aplicación la pueden encontrar y descargar [aquí en Google Play](https://play.google.com/store/apps/details?id=com.alemontejolp.gidlestickersapp).
 Espero pueda ser de su agrado y se diviertan usando estos stickers. 
 ¡Hasta pronto, Neverlands! :3
 
