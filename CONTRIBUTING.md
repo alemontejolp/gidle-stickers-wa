@@ -54,7 +54,7 @@ Creando los paquetes de stickers y...
 
 ### 1. Enviando los paquetes de stickers a mi email
 
-Si decidió la primera opción, puede escribirme a: alemontejo.lp@gmail.com
+Si decidió la primera opción, puede escribirme a: ale.montejo.lopez.25@gmail.com
 mencionando que es para agregar nuevos paquetes de stickers, adjuntando
 los paquetes de stickers en un archivo comprimido en zip o rar.
 
